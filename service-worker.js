@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yung-soprano/precache-manifest.fcb4b6e81c472da2644898c6c845206b.js"
+  "/yung-soprano/precache-manifest.fed5ced77425bd7f7c03bcf6a75c31b9.js"
 );
 
 self.addEventListener('message', (event) => {

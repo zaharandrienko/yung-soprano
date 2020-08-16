@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4fb5b89081682240344d4957e8619d81",
+    "revision": "a3cd86c00db36605ea4dae06f8759b34",
     "url": "/yung-soprano/index.html"
   },
   {
-    "revision": "0a8317583cf09ae6bae2",
-    "url": "/yung-soprano/static/css/main.3e4e5218.chunk.css"
+    "revision": "8924e8e9c9254cd14709",
+    "url": "/yung-soprano/static/css/main.96d5b36e.chunk.css"
   },
   {
     "revision": "38e26b715cf465ed428b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yung-soprano/static/js/2.e7c12280.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a8317583cf09ae6bae2",
+    "revision": "8924e8e9c9254cd14709",
     "url": "/yung-soprano/static/js/main.7ec7a13a.chunk.js"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yung-soprano/static/css/main.3e4e5218.chunk.css",
+    "main.css": "/yung-soprano/static/css/main.96d5b36e.chunk.css",
     "main.js": "/yung-soprano/static/js/main.7ec7a13a.chunk.js",
     "main.js.map": "/yung-soprano/static/js/main.7ec7a13a.chunk.js.map",
     "runtime-main.js": "/yung-soprano/static/js/runtime-main.cedccd20.js",
@@ -8,9 +8,9 @@
     "static/js/2.e7c12280.chunk.js": "/yung-soprano/static/js/2.e7c12280.chunk.js",
     "static/js/2.e7c12280.chunk.js.map": "/yung-soprano/static/js/2.e7c12280.chunk.js.map",
     "index.html": "/yung-soprano/index.html",
-    "precache-manifest.fcb4b6e81c472da2644898c6c845206b.js": "/yung-soprano/precache-manifest.fcb4b6e81c472da2644898c6c845206b.js",
+    "precache-manifest.fed5ced77425bd7f7c03bcf6a75c31b9.js": "/yung-soprano/precache-manifest.fed5ced77425bd7f7c03bcf6a75c31b9.js",
     "service-worker.js": "/yung-soprano/service-worker.js",
-    "static/css/main.3e4e5218.chunk.css.map": "/yung-soprano/static/css/main.3e4e5218.chunk.css.map",
+    "static/css/main.96d5b36e.chunk.css.map": "/yung-soprano/static/css/main.96d5b36e.chunk.css.map",
     "static/js/2.e7c12280.chunk.js.LICENSE.txt": "/yung-soprano/static/js/2.e7c12280.chunk.js.LICENSE.txt",
     "static/media/Audio.css": "/yung-soprano/static/media/bogdan2.9d130a0d.jpg",
     "static/media/App.css": "/yung-soprano/static/media/homeBack.46275b40.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.cedccd20.js",
     "static/js/2.e7c12280.chunk.js",
-    "static/css/main.3e4e5218.chunk.css",
+    "static/css/main.96d5b36e.chunk.css",
     "static/js/main.7ec7a13a.chunk.js"
   ]
 }
