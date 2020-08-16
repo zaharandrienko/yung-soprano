@@ -1,0 +1,106 @@
+.Info{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 2200px;
+    padding-bottom: 10px;
+    /* background-color: rgba(0, 0, 0, 0.247); */
+    
+}
+
+.one{
+    height: fit-content;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+h2{
+    margin: 0;
+    text-align: center;
+    font-size: 40px;
+    width: 100%;
+    float: left;
+    height: 100%;
+}
+
+
+
+
+.first{
+    padding-top: 45px;
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+
+.second{
+    padding-top: 45px;
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+
+
+.act{
+    margin-top: 85px;
+}
+
+ul{
+    font-size: 30px;
+    padding-top: 40px;
+    height: 100%;
+}
+
+.hr{
+    width: 70%;
+    margin-left: 15%;
+    height: 6px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 3px;
+    margin-top: 10px;
+    float: left;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+
+
+@media screen and (max-width: 666px) {
+    ul{
+        font-size: 15px;
+        padding-top: 15px;
+        padding-left: 20px;
+    }
+    h2{
+        font-size: 20px;
+    }
+    .Info{
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        height: 1800px;
+    }
+    .one{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .first{
+        padding-top: 15px;
+    }
+    
+    .second{
+        padding-top: 15px;
+    }
+    .hr{
+        width: 90%;
+        margin-left: 5%;
+        height: 3px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+    li{
+        margin: 0;
+        padding: 0;
+        margin-bottom: 10px;
+    }
+}

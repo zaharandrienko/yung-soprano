@@ -1,0 +1,15 @@
+.main{
+  height: 200px;
+  width: 1000px;
+  color: aliceblue;
+  font-size: 50px;
+  margin: 100px;
+  background-color: rgb(70, 5, 131);
+}
+
+.testAudio{
+  width: 100%;
+  color: aliceblue;
+}
+
+

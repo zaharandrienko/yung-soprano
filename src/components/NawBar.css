@@ -1,0 +1,48 @@
+.NawBar{
+    color: rgb(255, 255, 255);
+    width: 100%;
+    height: 100px;
+    padding: 0px;
+    padding-top: 90px;
+    transition: all 100ms;
+    font-family: Montserrat;
+}
+
+
+
+a{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    float: right;
+    margin-right: 3%;
+    margin-top: 0px;
+    -moz-text-shadow:0 0 0px rgb(255, 255, 255); -webkit-text-shadow:0 0 0px  rgb(255, 255, 255); text-shadow:0 0 0px rgb(255, 255, 255);
+    transition: all 300ms;
+}
+
+#lust{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    float: right;
+    margin-right: 136px;
+    margin-top: 0px;
+    -moz-text-shadow:0 0 0px rgb(255, 255, 255); -webkit-text-shadow:0 0 0px  rgb(255, 255, 255); text-shadow:0 0 0px rgb(255, 255, 255);
+    transition: all 300ms;
+}
+
+.NawBar :hover{
+    /* color: rgb(183, 232, 255); */
+    margin-top: 1.5px;
+    cursor: pointer;
+    -moz-text-shadow:0 0 5px rgb(255, 255, 255); -webkit-text-shadow:0 0 5px  rgb(255, 255, 255); text-shadow:0 0 5px rgb(255, 255, 255);
+    transition: all 250ms;
+}
+
+@media screen and (max-width: 666px) {
+    .NawBar{
+        height: 50px;
+    }
+    .NawBarLink{
+        display: none;
+    }
+}

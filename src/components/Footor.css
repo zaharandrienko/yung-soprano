@@ -1,0 +1,31 @@
+.Footor{
+  width: 100%;
+  height: 100px;
+  padding-top: 50px;
+  background-color: rgb(255, 0, 140);
+}
+
+  .Naw1{
+    /* background-color: rgba(0, 255, 255, 0.555); */
+    float: left;
+    width: 100%;
+    height: fit-content;
+    text-align: center;
+  }
+  
+  .icon1{
+    color: rgb(255, 255, 255);
+    width: 25%;
+    font-size: 45px;
+    transition: all 200ms;
+    float: left;
+    text-align: center;
+  }
+  
+  
+  .Naw1 :hover{
+    color: rgb(241, 138, 255);
+    transition: all 400ms;
+    font-size: 48px;
+    cursor: pointer;
+  }

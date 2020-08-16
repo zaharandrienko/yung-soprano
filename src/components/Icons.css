@@ -1,0 +1,83 @@
+.Icons{
+  z-index: 10000;
+  /* background-color: rgba(255, 0, 0, 0.507); */
+  height: 100%;
+  width: 3%;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  margin-left: 95%;
+  margin-top: 55px;
+  text-align: center;
+}
+
+.Naw{
+  /* background-color: rgba(0, 255, 255, 0.555); */
+  float: right;
+  width: 60px;
+  height: fit-content;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  /* left: 0; */
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
+
+.icon{
+  color: rgb(255, 255, 255);
+  width: 90%;
+  font-size: 45px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  transition: all 200ms;
+}
+
+/* .vk{
+  margin: 0;
+  padding: 0;
+  font-size: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 12px;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  transition: all 150ms;
+} */
+
+.Naw :hover{
+  color: rgb(241, 138, 255);
+  transition: all 400ms;
+  font-size: 48px;
+  cursor: pointer;
+}
+
+
+@media screen and (max-width: 666px) {
+  .Naw{
+    width: 100%;
+    margin: 0;
+    float: left;
+    left: 0;
+  }
+  .icon{
+    width: 100%;
+    float: left;
+    margin: 0;
+    padding: 0;
+  }
+  .Icons{
+    margin: 0;
+    width: 100%;
+    position: relative;
+  }
+  .contactLink{
+    width: 20%;
+    margin: 0;
+    padding: 0;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+  }
+}
